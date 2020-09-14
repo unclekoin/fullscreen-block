@@ -80,6 +80,7 @@ body {
 
 .fullscreen_bg {
     background: url(../images/bg.png) repeat fixed;
+    /* background: #2d2d2d url(../images/bg.png) center / cover no-repeat fixed; */
 }
 
 .fullscreen__body {
